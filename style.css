@@ -1,6 +1,6 @@
 body {
     background: url('licensed-image.jpeg');
-    background-color: #aaf5fa;
+    background-color: #0a0e5c;
     color: #e2e2e2;
     font-family: "fantasy;", sans-serif;
     display: flex;
@@ -11,7 +11,7 @@ body {
 }
 
 button {
-    background-color: #aaf5fa;
+    background-color: #0a0e5c;
     color: ##800000;
     border-start-start-radius: 50%;
 writing-mode: orizontal-lr;
